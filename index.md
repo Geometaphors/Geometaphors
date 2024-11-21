@@ -4,7 +4,7 @@ title: "Welcome to My Project"
 
 # Welcome to My Project
 The structure of language can shape our world view,
-bounding how we communicate our human emotions or
+bounding how we communicate our human emotions or 
 even the color of the sea1. Scholars in disciplines varying
 
 from archeology to neuroscience have shown that the as-

@@ -3,20 +3,18 @@ layout: default
 title: "Welcome to My Project"
 ---
 
-#Section Title
-**Summary**
+##**Summary**
 Language choice has a real and measurable eect on scientic interpretation
 Sexualized language in geology creates a hostile environment conducive to
 gender- and sex- based harassment
 Body metaphors and personication of geologic processes can be traced
 historically and are a dominant framework in interpreting geoscience
-#Section Title
+
 **Motivation**
 Language used in geoscience sets culture and tone for behavioral norms
 How might metaphors used in geoscience contribute to the prevalence of
 gender- and sex- based harassment?
-##Section Title
-**How language shapes culture**
+##**How language shapes culture**
 The structure of language can shape our world view,
 bounding how we communicate our human emotions or
 even the color of the sea. Scholars in disciplines varying
@@ -35,8 +33,7 @@ es actually impact how we perceive their importance or
 
 urgency.
 
-##Section Title
-**Geology language and sexual harassment**
+##**Geology language and sexual harassment**
 
 The use of sexually explicit language in geology and the eld is not just exclusive or
 

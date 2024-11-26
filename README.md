@@ -1,2 +1,0 @@
-# Sexual-Metaphors-in-Geoscience
-

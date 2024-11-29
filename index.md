@@ -1,4 +1,4 @@
-# Welcome to GeoContext! 
+# Welcome to Geometaphors! 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1YZHSGQYW1"></script>

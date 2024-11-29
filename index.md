@@ -1,4 +1,4 @@
-# Welcome to Geometaphors! 
+# Welcome to Geometaphors 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1YZHSGQYW1"></script>
@@ -11,6 +11,7 @@
 </script>
 
 This study aims to document gendered and sexual language in the geosciences. Led by the Pico Group at University California Santa Cruz, this anonymous 5-minute survey will be analyzed for an undergraduate senior thesis.
+
 ## Motivation 
 The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2,3).
 

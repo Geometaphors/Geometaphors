@@ -10,6 +10,7 @@
   gtag('config', 'G-1YZHSGQYW1');
 </script>
 > Take the (5-min) survey!
+
 This study aims to document gendered and sexual language in the geosciences. Led by the Pico Group at University California Santa Cruz, this anonymous 5-minute survey will be analyzed for an undergraduate senior thesis.
 
 ## Motivation 

@@ -25,6 +25,11 @@ We need your help to learn about the presence of gendered or sexual language in 
 
 ## The Team
 
-<img src="Tamara.jpg" alt="Tamara.jpg" width="90"/> Tamara Pico <br/>
-<sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
+<div style="display: flex; align-items: center;">
+  <img src="Tamara.jpg" alt="Tamara.jpg" width="90" style="margin-right: 10px;">
+  <div>
+    **Tamara Pico**<br>
+    <sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
+  </div>
+</div>
 

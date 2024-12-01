@@ -25,36 +25,35 @@ We need your help to learn about the presence of gendered or sexual language in 
 
 ## The Team
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-<img src="Tamara.jpg" alt="Tamara.jpg" width="90" style="margin-right: 10px;">
-<div>
-Tamara Pico<br>
-<sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
-</div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-<img src="lyd.JPG" alt="lyd.JPG" width="90" style="margin-right: 10px;">
-<div>
-Lydia Vance<br>
-<sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>
-</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="Tamara.jpg" alt="Tamara.jpg" width="90" style="margin-right: 10px;">
+  <div>
+    Tamara Pico<br>
+    <sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
+  </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-<img src="kate_clancy.avif" alt="kate_clancy.avif" width="90" style="margin-right: 10px;">
-<div>
-Kate Clancy<br>
-<sub> (she/her), Biological Anthropologist, Department of Anthropology, University of Illinois at Urbana-Champaign </sub>
-</div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-<img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90" style="margin-right: 10px;">
-<div>
-Jane Willenbring<br>
-<sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
-</div>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="lyd.JPG" alt="lyd.JPG" width="90" style="margin-right: 10px;">
+  <div>
+    Lydia Vance<br>
+    <sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>
+  </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="kate_clancy.avif" alt="kate_clancy.avif" width="90" style="margin-right: 10px;">
+  <div>
+    Kate Clancy<br>
+    <sub> (she/her), Biological Anthropologist, Department of Anthropology, University of Illinois at Urbana-Champaign </sub>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90" style="margin-right: 10px;">
+  <div>
+    Jane Willenbring<br>
+    <sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
+  </div>
+</div>
 

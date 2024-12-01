@@ -18,7 +18,7 @@ The language and metaphors used in the geosciences contributes to the culture an
 
 At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document gendered and sexual language within the geosciences to learn about its presence and the forms this language can take.
 
-See the EOS article to learn more about the 2019 AGU poster!
+See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank">EOS</a> article to learn more about the 2019 AGU poster!
 
 ## Why we need your help!
 We need your help to learn about the presence of gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what kinds of gendered or sexual language is being said and in which subdisciplines.

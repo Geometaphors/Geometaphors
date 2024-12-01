@@ -58,5 +58,5 @@ We need your help to learn about the presence of gendered or sexual language in 
 
 <div style="text-align: center; margin-top: 30px;">
   <h3>Body Metaphors AGU Poster</h3>
-  <img src="IMG_1836.jpg" alt="Body Metaphors AGU Poster" width="800" height="600" style="margin-top: 10px;">
+  <img src="IMG_1836.jpg" alt="Body Metaphors AGU Poster" width="800" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;">
 </div>

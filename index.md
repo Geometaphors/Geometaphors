@@ -55,8 +55,9 @@ We need your help to learn about the presence of gendered or sexual language in 
     Jane Willenbring<br>
     <sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
   </div>
+
 </div>
 <div style="text-align: center; margin-top: 30px;">
-  <img src="Bodymetaphor_AGUposter_draft3 (1).pdf" alt="Bodymetaphor_AGUposter_draft3 (1).pdf" width="90" style="margin-bottom: 10px;">
   <h3>Body Metaphors AGU Poster</h3>
+  <img src="IMG_1836.jpg" alt="Body Metaphors AGU Poster" width="90" style="margin-top: 10px;">
 </div>

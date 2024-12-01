@@ -33,7 +33,7 @@ We need your help to learn about the presence of gendered or sexual language in 
   </div>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="IMG_0497.JPG" alt="IMG_0497.JPG" width="90" style="margin-right: 10px;">
+  <img src="lyd.JPG" alt="lyd.JPG" width="90" style="margin-right: 10px;">
   <div>
     Lydia Vance<br>
     <sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>

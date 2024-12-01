@@ -32,4 +32,12 @@ We need your help to learn about the presence of gendered or sexual language in 
     <sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
   </div>
 </div>
+<div style="display: flex; align-items: center;">
+  <img src="IMG_0497.JPG" alt="IMG_0497.JPG" width="90" style="margin-right: 10px;">
+  <div>
+    Lydia Vance<br>
+    <sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>
+  </div>
+</div>
+
 

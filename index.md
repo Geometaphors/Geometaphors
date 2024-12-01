@@ -39,5 +39,19 @@ We need your help to learn about the presence of gendered or sexual language in 
     <sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>
   </div>
 </div>
+<div style="display: flex; align-items: center;">
+  <img src="kate_clancy.avif" alt="kate_clancy.avif" width="90" style="margin-right: 10px;">
+  <div>
+   Kate Clancy<br>
+    <sub> (she/her), Biological Anthropologist, Department of Anthropology, University of Illinois at Urbana-Champaign </sub>
+  </div>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90" style="margin-right: 10px;">
+  <div>
+  Jane Willenbring<br>
+    <sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
+  </div>
+</div>
 
 

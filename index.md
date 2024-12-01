@@ -56,7 +56,7 @@ We need your help to learn about the presence of gendered or sexual language in 
     <sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
   </div>
 
+##Body Metaphors AGU Poster 
 <div style="clear: both; text-align: center; margin-top: 30px;">
-  <h3>Body Metaphors AGU Poster</h3>
   <img src="IMG_1836.jpg" alt="Body Metaphors AGU Poster" width="800" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;">
 </div>

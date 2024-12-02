@@ -29,7 +29,7 @@ We need your help to learn about the presence of gendered or sexual language in 
   <img src="Tamara.jpg" alt="Tamara.jpg" width="90" style="margin-right: 10px;">
   <div>
     Tamara Pico<br>
-    <sub> (she/her), Assistant Professor, Earth & Planetary Sciences, UC Santa Cruz, ice age sea level change </sub>
+    <sub> (she/her) Tamara Pico is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
   </div>
 </div>
 
@@ -37,7 +37,7 @@ We need your help to learn about the presence of gendered or sexual language in 
   <img src="lyd.JPG" alt="lyd.JPG" width="90" style="margin-right: 10px;">
   <div>
     Lydia Vance<br>
-    <sub> (she/her), Undergraduate, Earth & Planetary Sciences, UC Santa Cruz </sub>
+    <sub> (she/her) Lydia Vance is an undergraduate senior thesis student at UC Santa Cruz (Class of 2025) and is a double major in Environmental Sciences and Feminist Studies. </sub>
   </div>
 </div>
 

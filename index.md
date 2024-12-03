@@ -87,8 +87,8 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
   </div>
 </div>
 <!-- References Section -->
-<div style="margin-top: 40px; padding: 20px; background-color: #f4f4f4; border-top: 2px solid #ccc;">
-  <h3 style="text-align: center;">References</h3>
+<div style="margin-top: 40px; padding: 20px; border-top: 2px solid #ccc;">
+  <h3 style="text-align: center; color: black;">References</h3>
   <ul style="list-style-type: decimal; margin-left: 20px;">
     <li>Deutscher, G. <em>Through the Language Glass</em> (2010).</li>
     <li>Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).</li>

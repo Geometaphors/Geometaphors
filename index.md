@@ -69,7 +69,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 245px; height: 150px; object-fit: cover;">
+    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 245px; height: auto; object-fit: cover;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

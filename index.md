@@ -12,7 +12,7 @@
 ## Welcome to Geometaphors
 This study aims to document gendered and sexual language in the geosciences. Led by the Pico Group at University California Santa Cruz, this anonymous 5-minute survey will be analyzed for an undergraduate senior thesis.
 
-# <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#FF0090;">Take the (3-min) survey!</a>
+# <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#FCA3B7;">Take the (3-min) survey!</a>
 <br>
 
 ## Motivation 

@@ -72,17 +72,10 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 300px; height: auto; object-fit: cover;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
-  <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 300px; height: auto; object-fit: cover;">
-    <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
-  </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
     <sub><a href="https://clancylabs.com/" target="_blank" style="color: blue;">Kathryn Clancy</a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function, and evolutionary medicine. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;">National Academies report</a> on sexual harassment of women in STEM and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;">SAFE survey</a> on academic field experiences of harassment and assault.</sub>
   </div>
-</div> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function, and evolutionary medicine. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;">National Academies report</a> on sexual harassment of women in STEM and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;">SAFE survey</a> on academic field experiences of harassment and assault.</sub>
-  </div>
-</div>
+</div> 
 
 <!-- Fourth team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

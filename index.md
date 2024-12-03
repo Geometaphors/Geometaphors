@@ -25,7 +25,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Container for the AGU poster and two additional images -->
 <div style="text-align: left; margin-top: 30px; display: flex;">
   <!-- Main AGU Poster Image -->
-  <img src="agu_poster_bodygeo.jpg" alt="Body Metaphors AGU Poster" width="400" style="margin-right: 20px;">
+  <img src="agu_poster_bodygeo.jpg" alt="AGU 2019 Poster" width="400" style="margin-right: 20px;">
 
   <!-- Container for the two additional images -->
   <div style="display: flex; flex-direction: column; justify-content: space-between;">
@@ -103,4 +103,5 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).
 
   </ul>
+    <img src="Geometaphors_2.png" alt="geometaphor logo" width="500">
 </div>

@@ -91,10 +91,15 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <div style="margin-top: 40px; padding: 20px; border-top: 2px solid #ccc;">
   <h3 style="text-align: center; color: black;">References</h3>
   <ul style="list-style-type: decimal; margin-left: 20px;">
+    
     1. Deutscher, G. <em>Through the Language Glass</em> (2010).
+    <br>
     2. Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).
+    <br>
     3. van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).
+    <br>
     4. Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.
+    <br>
     5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).
 
   </ul>

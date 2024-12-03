@@ -39,11 +39,12 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 
 <div style="clear: both; margin-top: 30px;">
   
- ## Whether you've heard it or not. 
-  <p> We need your help to learn about potentially gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what is being said and in which subdisciplines.</p>
+ 
 </div>
 
-
+## Whether you've heard it or not. 
+  <p> We need your help to learn about potentially gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what is being said and in which subdisciplines.</p>
+  
 ## The Team 
 
 <!-- First team member -->

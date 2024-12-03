@@ -50,7 +50,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- First team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" style = "width: 230px; height:auto;!important;">
+    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" style = "width: 260px; height:auto;!important;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

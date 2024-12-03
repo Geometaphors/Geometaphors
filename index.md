@@ -48,19 +48,19 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- First team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="90">
-    <div style="font-size: 12px; font-weight: bold; text-align: center;">Tamara Pico</div>
+    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="120">
+    <div style="font-size: 14px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub>  Tamara Pico (she/her)is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
+    <sub>  Tamara Pico (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
   </div>
 </div>
 
 <!-- Second team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="lyd.JPG" alt="lyd.JPG" width="90">
-    <div style="font-size: 12px; font-weight: bold; text-align: center;">Lydia Vance</div>
+    <img src="lyd.JPG" alt="lyd.JPG" width="120">
+    <div style="font-size: 14px; font-weight: bold; text-align: center;">Lydia Vance</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
     <sub>Lydia Vance (she/her) is an undergraduate senior thesis student at UC Santa Cruz (Class of 2025) and is a double major in Environmental Sciences and Feminist Studies.</sub>
@@ -70,8 +70,8 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Third team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="kate_clancy.avif" width="90">
-    <div style="font-size: 12px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
+    <img src="kate_clancy.avif" alt="kate_clancy.avif" width="120">
+    <div style="font-size: 14px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
     <sub> <a href="https://clancylabs.com/" target="_blank"> Kathryn Clancy </a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function, and evolutionary medicine. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;">National Academies report</a> on sexual harassment of women in STEM and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;">SAFE survey</a> on academic field experiences of harassment and assault. </sub>  
@@ -81,8 +81,8 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Fourth team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90">
-    <div style="font-size: 12px; font-weight: bold; text-align: center;">Jane Willenbring</div>
+    <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="120">
+    <div style="font-size: 14px; font-weight: bold; text-align: center;">Jane Willenbring</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
     <sub> Jane Willenbring (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface. </sub>

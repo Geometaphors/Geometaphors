@@ -45,7 +45,7 @@ We need your help to learn about the presence of gendered or sexual language in 
   <img src="kate_clancy.avif" alt="kate_clancy.avif" width="90" style="margin-right: 10px;">
   <div>
     Kathryn Clancy<br>
-    <sub> (she/her), Biological Anthropologist, Department of Anthropology, University of Illinois at Urbana-Champaign </sub>
+    <sub> (she/her), Dr. Clancy is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function and evolutionary medicine. She has coauthored the National Academies report on sexual harassment of women in STEM, led the SAFE survey on academic field experiences of harassment and assault, and provided Congressional testimony on sexual harassment and misconduct in science. </sub>  </sub>
   </div>
 </div>
 

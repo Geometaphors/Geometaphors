@@ -48,7 +48,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- First team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" style = "width: 230px; height: 75px;!important;">
+    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" style = "width: 230px; height: 60px;!important;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
@@ -70,7 +70,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Third team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-   <img src="kate_clancy.avif" alt="kate_clancy.avif" style="width: 150px; height: 150px; object-fit: cover;">
+  <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

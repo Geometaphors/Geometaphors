@@ -52,7 +52,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub> href="https://tamarapico.github.io/" target="_blank" style="color: blue;">Tamara Pico  </a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
+    <sub> <a href="https://tamarapico.github.io/" target="_blank" style="color: blue;">Tamara Pico  </a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
   </div>
 </div>
 

@@ -79,7 +79,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Fourth team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="jane-k-willenbring.webp" alt="Jane Willenbring" style="width: 150px; height: 75px; object-fit: cover;">
+    <img src="jane-k-willenbring.webp" alt="Jane Willenbring" style="width: 120px; height: 45px; object-fit: cover;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Jane Willenbring</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

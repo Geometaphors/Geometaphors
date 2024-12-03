@@ -17,6 +17,12 @@ This study aims to document gendered and sexual language in the geosciences. Led
 The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2,3).
 
 At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document gendered and sexual language within the geosciences to learn about its presence and the forms this language can take.
+</div>
+<h3 style="color: black;">Body Metaphors AGU Poster</h3>
+
+<div style="clear: both; text-align: center; margin-top: 30px;">
+  <img src="agu_poster_bodygeo.jpg" alt="Body Metaphors AGU Poster" width="150" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" >EOS article</a> to learn more about the 2019 AGU poster!
 
@@ -55,9 +61,3 @@ We need your help to learn about the presence of gendered or sexual language in 
     Jane Willenbring<br>
     <sub> (she/her), Jane Willenbring is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.  </sub>
   </div>
-</div>
-<h3 style="color: black;">Body Metaphors AGU Poster</h3>
-
-<div style="clear: both; text-align: center; margin-top: 30px;">
-  <img src="IMG_1836.jpg" alt="Body Metaphors AGU Poster" width="800" style="margin-top: 30px; display: block; margin-left: auto; margin-right: auto;">
-</div>

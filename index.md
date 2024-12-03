@@ -86,3 +86,21 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <sub>Jane Willenbring (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
   </div>
 </div>
+<!-- References Section -->
+<div style="margin-top: 40px; padding: 20px; background-color: #f4f4f4; border-top: 2px solid #ccc;">
+  <h3 style="text-align: center;">References</h3>
+  <ul style="list-style-type: decimal; margin-left: 20px;">
+    <li>Deutscher, G. <em>Through the Language Glass</em> (2010).</li>
+    <li>Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).</li>
+    <li>van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).</li>
+    <li>Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.</li>
+    <li>Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).</li>
+    <li>Johnson, Paula A., et al. <em>NAS Sexual Harassment of Women</em> (Washington, D.C., 2018).</li>
+    <li>Clancy, Kathryn B. H., et al. ‘Survey of Academic Field Experiences (SAFE): Trainees Report Harassment and Assault’ (2014).</li>
+    <li>Sparke, Matthew. ‘Displacing the Field in Fieldwork,’ <em>BodySpace: Destabilizing Geographies of Gender and Sexuality</em> (1996).</li>
+    <li>Lord, Eliot. ‘Comstock Mining and Miners,’ in <em>Monographs of the United States Geological Survey</em> (1883).</li>
+    <li>Gilbert, G.K. ‘Report on the Geology of the Henry Mountains’ (1877).</li>
+    <li>Whitney, J. D. <em>The Metallic Wealth of the United States</em> (1854).</li>
+    <li>Bretz, J. Harlen. ‘The Channeled Scabland of Eastern Washington’ (1928).</li>
+  </ul>
+</div>

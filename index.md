@@ -26,7 +26,7 @@ We need your help to learn about the presence of gendered or sexual language in 
 ## The Team
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="Tamara.jpg" alt="Tamara.jpg" width="90" style="margin-right: 10px;">
+  <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="90" style="margin-right: 10px;">
   <div>
     Tamara Pico (she/her)<br>
     <sub>  Tamara Pico is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>

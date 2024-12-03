@@ -48,7 +48,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- First team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="150">
+    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="150"!important;>
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
@@ -59,7 +59,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Second team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="lyd.JPG" alt="lyd.JPG" width="150">
+    <img src="lyd.JPG" alt="lyd.JPG" width="150"!important;>
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Lydia Vance</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
@@ -70,7 +70,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Third team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="kate_clancy.avif" width="150">
+    <img src="kate_clancy.avif" alt="kate_clancy.avif" width="150"!important;>
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
@@ -81,7 +81,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 <!-- Fourth team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="150">
+    <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="150"!important;>
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Jane Willenbring</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

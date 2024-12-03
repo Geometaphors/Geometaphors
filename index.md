@@ -84,7 +84,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Jane Willenbring</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub>Jane Willenbring (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
+    <sub><a href="https://lifelandscape.stanford.edu/people/jane-willenbring" target="_blank" style="color: blue;">Jane Willenbring </a> (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
   </div>
 </div>
 <!-- References -->

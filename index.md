@@ -20,7 +20,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 
 <h4 style="color: black; text-align: left;">Body Metaphors AGU Poster</h4>
 
-<p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank">EOS article</a> to learn more about the 2019 AGU poster!</p>
+<p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color: blue;">EOS article</a> to learn more about the 2019 AGU poster!</p>
 
 <!-- Container for the AGU poster and two additional images -->
 <div style="text-align: left; margin-top: 30px; display: flex;">
@@ -69,7 +69,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 245px; height: auto; object-fit: cover;">
+    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 300px; height: auto; object-fit: cover;">
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">

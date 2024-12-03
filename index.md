@@ -16,7 +16,7 @@ This study aims to document gendered and sexual language in the geosciences. Led
 <br>
 
 ## Motivation 
-The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2,3).
+The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2-5).
 
 At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document gendered and sexual language within the geosciences to learn about its presence and the forms this language can take.
 
@@ -87,15 +87,15 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <sub>Jane Willenbring (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
   </div>
 </div>
-<!-- References Section -->
+<!-- References -->
 <div style="margin-top: 40px; padding: 20px; border-top: 2px solid #ccc;">
   <h3 style="text-align: center; color: black;">References</h3>
   <ul style="list-style-type: decimal; margin-left: 20px;">
-    <li>1. Deutscher, G. <em>Through the Language Glass</em> (2010).</li>
-    <li>2. Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).</li>
-    <li>3. van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).</li>
-    <li>4. Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.</li>
-    <li>5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).</li>
+    1. Deutscher, G. <em>Through the Language Glass</em> (2010).
+    2. Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).
+    3. van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).
+    4. Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.
+    5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).
 
   </ul>
 </div>

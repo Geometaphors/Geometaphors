@@ -12,7 +12,7 @@
 ## Welcome to Geometaphors
 This study aims to find out more about gendered, sexist, and sexual language in the geosciences.
 
-# <em> <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#EC5578;"> Click here to take the (3-min) survey!</a> </em>
+# <em> <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#EC5578;"> To take the (3-min) survey click here!</a> </em>
 <br>
 
 ## Motivation 

@@ -1,4 +1,4 @@
-# Welcome to Geometaphors 
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1YZHSGQYW1"></script>
@@ -9,15 +9,15 @@
 
   gtag('config', 'G-1YZHSGQYW1');
 </script>
-<p><a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color: blue;">Take the (5-min) survey!</a></p>
+
 This study aims to document gendered and sexual language in the geosciences. Led by the Pico Group at University California Santa Cruz, this anonymous 5-minute survey will be analyzed for an undergraduate senior thesis.
+
+# <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color: blue;">Take the (3-min) survey!</a>
 
 ## Motivation 
 The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2,3).
 
 At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document gendered and sexual language within the geosciences to learn about its presence and the forms this language can take.
-
-<h4 style="color: black; text-align: left;">Body Metaphors AGU Poster</h4>
 
 <p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color: blue;">EOS article</a> to learn more about the 2019 AGU poster!</p>
 

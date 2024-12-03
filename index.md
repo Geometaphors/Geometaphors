@@ -38,12 +38,13 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 </div>
 
 <div style="clear: both; margin-top: 30px;">
-  <h4 style="color: black;"> Whether you've heard it or not. </h4>
+  
+  ## Whether you've heard it or not. 
   <p> We need your help to learn about potentially gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what is being said and in which subdisciplines.</p>
 </div>
 
 
-<h3 style="color: black;">The Team</h3>
+## The Team 
 
 <!-- First team member -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

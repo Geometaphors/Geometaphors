@@ -103,6 +103,6 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).
 
   </ul>
-    <img src="Geometaphors_2.png" alt="geometaphor logo" width="200">
+    <img src="Geometaphors_2.png" alt="geometaphor logo" width="300">
    <!-- <img src="Geometaphors_3.png" alt="geometaphor logo" width="350"/> -->
 </div>

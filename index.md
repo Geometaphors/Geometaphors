@@ -20,7 +20,7 @@ The language and metaphors used in the geosciences contributes to the culture an
 
 At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document potentially gendered, sexist, and sexual language within the geosciences to learn about its presence and the forms this language can take.
 
-<p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color: blue;">EOS article</a> to learn more about the 2019 AGU poster!</p>
+<p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color:#EC5578;">EOS article</a> to learn more about the 2019 AGU poster!</p>
 
 <!-- Container for the AGU poster and two additional images -->
 <div style="text-align: left; margin-top: 30px; display: flex;">
@@ -53,7 +53,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub> <a href="https://tamarapico.github.io/" target="_blank" style="color: blue;">Tamara Pico  </a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
+    <sub> <a href="https://tamarapico.github.io/" target="_blank" style="color:#EC5578;">Tamara Pico  </a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub><a href="https://clancylabs.com/" target="_blank" style="color: blue;">Kathryn Clancy</a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;">National Academies report</a> on sexual harassment of women in STEM, and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;">SAFE survey</a> on academic field experiences of harassment and assault.</sub>
+    <sub><a href="https://clancylabs.com/" target="_blank" style="color:#EC5578;">Kathryn Clancy</a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color:#EC5578;">National Academies report</a> on sexual harassment of women in STEM, and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color:#EC5578;">SAFE survey</a> on academic field experiences of harassment and assault.</sub>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
     <div style="font-size: 13px; font-weight: bold; text-align: center;">Jane Willenbring</div>
   </div>
   <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub><a href="https://lifelandscape.stanford.edu/people/jane-willenbring" target="_blank" style="color: blue;">Jane Willenbring </a> (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
+    <sub><a href="https://lifelandscape.stanford.edu/people/jane-willenbring" target="_blank" style="color:#EC5578;">Jane Willenbring </a> (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
   </div>
 </div>
 <!-- References -->

@@ -22,9 +22,16 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 
 <p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank">EOS article</a> to learn more about the 2019 AGU poster!</p>
 
+<!-- Container for the AGU poster and two additional images -->
+<div style="text-align: left; margin-top: 30px; display: flex;">
+  <!-- Main AGU Poster Image -->
+  <img src="agu_poster_bodygeo.jpg" alt="Body Metaphors AGU Poster" width="400" style="margin-right: 20px;">
 
-<div style="text-align: left; margin-top: 30px;">
-  <img src="agu_poster_bodygeo.jpg" alt="Body Metaphors AGU Poster" width="400" style="float: left; margin-right: 20px;">
+  <!-- Container for the two additional images -->
+  <div style="display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="post it 1.webp" alt="Post its" width="150" style="margin-bottom: 10px;">
+    <img src="post it 2.webp" alt="Additional Image 2" width="150">
+  </div>
 </div>
 
 <div style="clear: both; margin-top: 30px;">
@@ -36,44 +43,48 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 ## Why we need your help!
 We need your help to learn about the presence of gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what kinds of gendered or sexual language is being said and in which subdisciplines.
 
-## The Team
+<h3>The Team</h3>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<!-- First team member -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;">
     <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="90">
-    <div>Tamara Pico (she/her)</div>
+    <div style="font-size: 14px; font-weight: bold;">Tamara Pico (she/her)</div>
   </div>
-  <div>
+  <div style="flex: 1;">
     <sub>  Tamara Pico is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<!-- Second team member -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;">
     <img src="lyd.JPG" alt="lyd.JPG" width="90">
-    <div>Lydia Vance (she/her)</div>
+    <div style="font-size: 14px; font-weight: bold;">Lydia Vance (she/her)</div>
   </div>
-  <div>
+  <div style="flex: 1;">
     <sub>Lydia Vance is an undergraduate senior thesis student at UC Santa Cruz (Class of 2025) and is a double major in Environmental Sciences and Feminist Studies.</sub>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<!-- Third team member -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;">
     <img src="kate_clancy.avif" alt="kate_clancy.avif" width="90">
-    <div>Kathryn Clancy</div>
+    <div style="font-size: 14px; font-weight: bold;">Kathryn Clancy</div>
   </div>
-  <div>
-    <sub> (she/her), <a href="https://clancylabs.com/" target="_blank" > Kathryn Clancy </a>  is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function and evolutionary medicine. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;"> National Academies report </a> on sexual harassment of women in STEM and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;"> SAFE survey </a> on academic field experiences of harassment and assault. </sub>  
+  <div style="flex: 1;">
+    <sub> (she/her), <a href="https://clancylabs.com/" target="_blank"> Kathryn Clancy </a> is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist who specializes in women’s health, endometrial function and evolutionary medicine. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color: blue;">National Academies report</a> on sexual harassment of women in STEM and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color: blue;">SAFE survey</a> on academic field experiences of harassment and assault. </sub>  
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<!-- Fourth team member -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center; margin-right: 10px;">
     <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90">
-    <div>Jane Willenbring</div>
+    <div style="font-size: 14px; font-weight: bold;">Jane Willenbring</div>
   </div>
-  <div>
+  <div style="flex: 1;">
     <sub> (she/her), Jane Willenbring is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface. </sub>
   </div>
 </div>

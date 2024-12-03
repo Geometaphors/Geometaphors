@@ -18,7 +18,7 @@ This study aims to document gendered and sexual language in the geosciences. Led
 ## Motivation 
 The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2-5).
 
-At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document gendered and sexual language within the geosciences to learn about its presence and the forms this language can take.
+At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document potentially gendered, sexist, and sexual language within the geosciences to learn about its presence and the forms this language can take.
 
 <p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color: blue;">EOS article</a> to learn more about the 2019 AGU poster!</p>
 
@@ -38,8 +38,8 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 </div>
 
 <div style="clear: both; margin-top: 30px;">
-  <h4 style="color: black;">Why we need your help!</h4>
-  <p>We need your help to learn about the presence of gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what kinds of gendered or sexual language is being said and in which subdisciplines.</p>
+  <h4 style="color: black;"> Whether you've heard it or not. </h4>
+  <p> We need your help to learn about potentially gendered or sexual language in the geosciences! Whether you have heard this type of language or not, your participation in our survey will help us discover what is being said and in which subdisciplines.</p>
 </div>
 
 

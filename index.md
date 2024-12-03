@@ -53,7 +53,7 @@ We need your help to learn about the presence of gendered or sexual language in 
   <img src="jane-k-willenbring.webp" alt="jane-k-willenbring.webp" width="90" style="margin-right: 10px;">
   <div>
     Jane Willenbring<br>
-    <sub> (she/her), Assistant Professor, Earth and Planetary Sciences, Stanford University </sub>
+    <sub> (she/her), Jane Willenbring is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.  </sub>
   </div>
 </div>
 <h3 style="color: black;">Body Metaphors AGU Poster</h3>

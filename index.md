@@ -16,9 +16,9 @@ This study aims to find out more about gendered, sexist, and sexual language in 
 <br>
 
 ## Motivation 
-The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. The structure of language can shape our world view, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have real effects for our understanding of scientific processes (2-5).
+The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. **The structure of language can shape our world view**, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have **real effects for our understanding of scientific processes** (2-5).
 
-At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gendered or sexual language overheard in the geosciences from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. This survey seeks to document potentially gendered, sexist, and sexual language within the geosciences to learn about its presence and the forms this language can take.
+At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gendered or sexual language overheard in the geosciences** from scientists like you. She found that the encountered language was sometimes striking and memorable, but other times routine and quotidian. Some people were extremely familiar with this type of language, and others had never heard it. **This survey seeks to document potentially gendered, sexist, and sexual language within the geosciences to learn about its presence and the forms this language can take**.
 
 <p style="text-align: left;">See the <a href="https://eos.org/articles/body-based-jargon-can-be-harassment-when-it-turns-sexual" target="_blank" style="color:#EC5578;">EOS article</a> "Body-Based Jargon Can Be Harassment When It Turns Sexual" to learn more!</p>
 

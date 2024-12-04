@@ -140,7 +140,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
     </div>
     <div class="team-member-description">
       <sub>
-        <a href="https://tamarapico.github.io/" target="_blank">Tamara Pico</a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.
+        <a href="https://tamarapico.github.io/" target="_blank">Tamara Pico</a> (she/her) is an Assistant Professor of Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. She studies ice-age sea level, in addition to cultures and practices in the geosciences, and was a leader of the teaching initiative <a href="https://geo-context.github.io/" target="_blank">GeoContext </a> . 
       </sub>
     </div>
   </div>

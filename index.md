@@ -136,7 +136,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
   <!-- First team member -->
   <div class="team-member-container">
     <div class="team-member-info">
-      <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg">
+      <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" width="90">
       <div class="team-member-name">Tamara Pico</div>
     </div>
     <div class="team-member-description">
@@ -149,7 +149,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
   <!-- Second team member -->
   <div class="team-member-container">
     <div class="team-member-info">
-      <img src="lyd.JPG" alt="lyd.JPG">
+      <img src="lyd.JPG" alt="lyd.JPG" width="90">
       <div class="team-member-name">Lydia Vance</div>
     </div>
     <div class="team-member-description">
@@ -160,7 +160,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
   <!-- Third team member -->
   <div class="team-member-container">
     <div class="team-member-info">
-      <img src="kate_clancy.avif" alt="Kate Clancy">
+      <img src="kate_clancy.avif" alt="Kate Clancy" width="90">
       <div class="team-member-name">Kathryn Clancy</div>
     </div>
     <div class="team-member-description">
@@ -173,7 +173,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
   <!-- Fourth team member -->
   <div class="team-member-container">
     <div class="team-member-info">
-      <img src="jane-k-willenbring.webp" alt="Jane Willenbring">
+      <img src="jane-k-willenbring.webp" alt="Jane Willenbring" width="90">
       <div class="team-member-name">Jane Willenbring</div>
     </div>
     <div class="team-member-description">

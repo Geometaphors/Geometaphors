@@ -78,7 +78,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of **gen
 
     .team-member-info img {
       width: 100%;
-      max-width: 260px;  /* Image max width for larger screens */
+      max-width: 100px;  /* Image max width for larger screens */
       height: auto;
       border-radius: 50%;
       object-fit: cover;

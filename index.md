@@ -45,66 +45,156 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 ## Whether you've heard it or not. 
   <p> We need your help! Your participation in our survey will help us discover where and how potentially gendered or sexual language appears in the geosciences!</p>
   
-## The Team 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Team</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .team-member-container {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-bottom: 20px;
+      flex-wrap: wrap;  /* Allow elements to wrap on small screens */
+      padding: 20px;
+      border-bottom: 1px solid #ddd; /* Optional: Adds separation between team members */
+    }
 
-<!-- First team member -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg" style = "width: 260px; height:auto;!important;">
-    <div style="font-size: 13px; font-weight: bold; text-align: center;">Tamara Pico</div>
-  </div>
-  <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub> <a href="https://tamarapico.github.io/" target="_blank" style="color:#EC5578;">Tamara Pico  </a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.</sub>
-  </div>
-</div>
+    .team-member-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-right: 20px;
+      flex: 1 1 auto; /* Allow flex to grow or shrink */
+    }
 
-<!-- Second team member -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="lyd.JPG" alt="lyd.JPG" style = "width: 150px !important;">
-    <div style="font-size: 13px; font-weight: bold; text-align: center;">Lydia Vance</div>
-  </div>
-  <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub>Lydia Vance (she/her) is an undergraduate senior thesis student at UC Santa Cruz (Class of 2025) and is a double major in Environmental Sciences and Feminist Studies.</sub>
-  </div>
-</div>
+    .team-member-info img {
+      width: 100%;
+      max-width: 260px;  /* Image max width for larger screens */
+      height: auto;
+      border-radius: 50%;
+      object-fit: cover;
+    }
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="kate_clancy.avif" alt="Kate Clancy" style="width: 300px; height: auto; object-fit: cover;">
-    <div style="font-size: 13px; font-weight: bold; text-align: center;">Kathryn Clancy</div>
-  </div>
-  <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub><a href="https://clancylabs.com/" target="_blank" style="color:#EC5578;">Kathryn Clancy</a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank" style="color:#EC5578;">National Academies report</a> on sexual harassment of women in STEM, and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank" style="color:#EC5578;">SAFE survey</a> on academic field experiences of harassment and assault.</sub>
-  </div>
-</div>
+    .team-member-description {
+      flex-grow: 1;
+      text-align: left;
+      max-width: 600px;
+      font-size: 14px;
+    }
 
-<!-- Fourth team member -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 20px;">
-    <img src="jane-k-willenbring.webp" alt="Jane Willenbring" style="width: 120px; height:auto; object-fit: cover;">
-    <div style="font-size: 13px; font-weight: bold; text-align: center;">Jane Willenbring</div>
-  </div>
-  <div style="flex-grow: 1; text-align: left; max-width: 600px;">
-    <sub><a href="https://lifelandscape.stanford.edu/people/jane-willenbring" target="_blank" style="color:#EC5578;">Jane Willenbring </a> (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.</sub>
-  </div>
-</div>
-<!-- References -->
-<div style="margin-top: 40px; padding: 20px; border-top: 2px solid #ccc;">
-  <h3 style="text-align: center; color: black;">References</h3>
-  <ul style="list-style-type: decimal; margin-left: 20px;">
-    
-    1. Deutscher, G. <em>Through the Language Glass</em> (2010).
-    <br>
-    2. Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).
-    <br>
-    3. van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).
-    <br>
-    4. Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.
-    <br>
-    5. Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).
+    .team-member-name {
+      font-size: 14px;
+      font-weight: bold;
+      text-align: center;
+      margin-top: 10px;
+    }
 
-  </ul>
+    /* Link Styling */
+    a {
+      color: #EC5578;
+      text-decoration: none;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .team-member-container {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .team-member-info {
+        margin-right: 0;
+        margin-bottom: 20px;
+        align-items: center;
+      }
+
+      .team-member-info img {
+        max-width: 200px;  /* Adjust image size on small screens */
+      }
+
+      .team-member-description {
+        text-align: center;
+        max-width: 100%;
+        font-size: 13px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h2 style="text-align: center; margin-top: 20px;">The Team</h2>
+
+  <!-- First team member -->
+  <div class="team-member-container">
+    <div class="team-member-info">
+      <img src="HudsonGazettephoto_sq.jpg" alt="HudsonGazettephoto_sq.jpg">
+      <div class="team-member-name">Tamara Pico</div>
+    </div>
+    <div class="team-member-description">
+      <sub>
+        <a href="https://tamarapico.github.io/" target="_blank">Tamara Pico</a> (she/her) is an Assistant Professor in Earth and Planetary Sciences at UC Santa Cruz, affiliated with the UCSC Science & Justice Research Center. Her research focuses on ice age sea level, in addition to analyzing cultures and practices in the geosciences.
+      </sub>
+    </div>
+  </div>
+
+  <!-- Second team member -->
+  <div class="team-member-container">
+    <div class="team-member-info">
+      <img src="lyd.JPG" alt="lyd.JPG">
+      <div class="team-member-name">Lydia Vance</div>
+    </div>
+    <div class="team-member-description">
+      <sub>Lydia Vance (she/her) is an undergraduate senior thesis student at UC Santa Cruz (Class of 2025) and is a double major in Environmental Sciences and Feminist Studies.</sub>
+    </div>
+  </div>
+
+  <!-- Third team member -->
+  <div class="team-member-container">
+    <div class="team-member-info">
+      <img src="kate_clancy.avif" alt="Kate Clancy">
+      <div class="team-member-name">Kathryn Clancy</div>
+    </div>
+    <div class="team-member-description">
+      <sub>
+        <a href="https://clancylabs.com/" target="_blank">Kathryn Clancy</a> (she/her) is an Associate Professor of Anthropology at the University of Illinois, Urbana-Champaign. She is a human reproductive ecologist. She has coauthored the <a href="https://www.nationalacademies.org/our-work/sexual-harassment-in-academia" target="_blank">National Academies report</a> on sexual harassment of women in STEM, and led the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102172" target="_blank">SAFE survey</a> on academic field experiences of harassment and assault.
+      </sub>
+    </div>
+  </div>
+
+  <!-- Fourth team member -->
+  <div class="team-member-container">
+    <div class="team-member-info">
+      <img src="jane-k-willenbring.webp" alt="Jane Willenbring">
+      <div class="team-member-name">Jane Willenbring</div>
+    </div>
+    <div class="team-member-description">
+      <sub>
+        <a href="https://lifelandscape.stanford.edu/people/jane-willenbring" target="_blank">Jane Willenbring</a> (she/her) is an Associate Professor of Earth and Planetary Sciences at Stanford University who studies the earth surface.
+      </sub>
+    </div>
+  </div>
+
+  <!-- References -->
+  <div style="margin-top: 40px; padding: 20px; border-top: 2px solid #ccc;">
+    <h3 style="text-align: center; color: black;">References</h3>
+    <ul style="list-style-type: decimal; margin-left: 20px;">
+      <li>Deutscher, G. <em>Through the Language Glass</em> (2010).</li>
+      <li>Wylie, Alison. ‘How Archaeological Evidence Bites Back’ (2017).</li>
+      <li>van Anders, Sari M. ‘Beyond Masculinity: Testosterone, Gender/Sex, and Human Social Behavior in a Comparative Context’ (2013).</li>
+      <li>Martin, Emily. ‘The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles’ (1991), 485–501.</li>
+      <li>Thibodeau, Paul H., et al. ‘How Linguistic Metaphor Scaffolds Reasoning’ (2017).</li>
+    </ul>
     <img src="Geometaphors_2.png" alt="geometaphor logo" width="300">
-   <!-- <img src="Geometaphors_3.png" alt="geometaphor logo" width="350"/> -->
-</div>
+  </div>
+
+</body>
+</html>

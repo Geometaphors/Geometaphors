@@ -45,7 +45,7 @@ At an interactive AGU poster in 2019, PI Tamara Pico collected examples of gende
 ## Whether you've heard it or not. 
   <p> We need your help! Your participation in our survey will help us discover where and how potentially gendered or sexual language appears in the geosciences!</p>
   
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">

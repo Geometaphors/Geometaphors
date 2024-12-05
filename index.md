@@ -12,7 +12,7 @@
 ## Welcome to Geometaphors
 Our study aims to find out more about gendered, sexist, and sexual language in the geosciences.
 
-## <em> <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#EC5578;"> To take the (3-min) survey, click here!</a> </em>
+## <em> <a href="https://ucsantacruz.co1.qualtrics.com/jfe/form/SV_0jpXkdWUck2nUvI" target="_blank" style="color:#EC5578;"> To take the 3-min survey, click here!</a> </em>
 
 ## Motivation 
 The language and metaphors used in the geosciences contributes to the culture and norms within the discipline. **The structure of language can shape our world view**, bounding how we communicate our human emotions or even the color of the sea (1). Scholars have shown that the assumptions we make about objects of scientific inquiry, especially the names assigned, can have **real effects for our understanding of scientific processes** (2-5).
